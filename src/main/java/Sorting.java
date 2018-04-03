@@ -26,7 +26,7 @@ public class Sorting {
 
     /**
      * Bubble sort.
-     *
+     * 
      * @param array unsorted input array
      * @return the sorted array, or null on failure
      */
